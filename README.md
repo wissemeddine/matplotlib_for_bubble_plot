@@ -5,3 +5,6 @@ building a Bubble Plot and a pie chart that showcases the relationship between d
 
 
 ![](Pyber/Images/PyberRideSharing.png)
+![](Pyber/Images/TotalDriversbyCityType.png)
+![](Pyber/Images/TotalFaresbyCityType.png)
+![](Pyber/Images/TotalRidesbyCityType.png)
